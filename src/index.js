@@ -209,4 +209,4 @@ class Backdulake {
 }
 
 // Export our newly created Store
-export default Backdulake;
+module.exports= Backdulake;

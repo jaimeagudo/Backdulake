@@ -1,5 +1,5 @@
 {
-  "name": "badulake",
+  "name": "backdulake",
   "version": "0.1.0",
   "description": "A convenient ALT super-store for React.js including validation facilities",
   "main": "lib/index.js",
@@ -19,31 +19,19 @@
     "underscore": "^1.8.3"
   },
   "devDependencies": {
-    "jsxc": "~0.1.6",
     "alt": "^0.17.4"
   },
-  "scripts": {
-    "start": "jsxc --watch src/ lib/",
-    "build": "jsxc src/ lib/"
-  },
-  "files": [
-    "lib/",
-    "USAGE.txt",
-    "static/"
-  ],
-  "staticRoot": "./static/",
-  "staticPlugin": "statics-stylesheets",
   "author": {
     "name": "Jaime Agudo Lopez",
     "url": "https://github.com/jaimeagudo"
   },
-  "homepage": "https://github.com/jaimeagudo/badulake",
+  "homepage": "https://github.com/jaimeagudo/Backdulake",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaimeagudo/badulake.git"
+    "url": "git://github.com/jaimeagudo/Backdulake.git"
   },
   "licenses": [ {
       "type": "MIT",
-      "url": "https://github.com/apiaryio/Amanda/blob/master/README.md"
+      "url": "https://github.com/jaimeagudo/Backdulake/blob/master/README.md"
     }]
 }
