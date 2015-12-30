@@ -3,7 +3,7 @@
   "version": "0.1.8",
   "description": "A convenient ALT super-store for React.js including validation facilities",
   "main": "lib/index.js",
-  "keywors": [
+  "keywords": [
     "react",
     "reactjs",
     "alt",
