@@ -1,6 +1,6 @@
 {
   "name": "backdulake",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "A convenient ALT super-store for React.js including validation facilities",
   "main": "lib/index.js",
   "keywords": [
