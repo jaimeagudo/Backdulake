@@ -36,10 +36,5 @@
       "babelify"
     ]
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/jaimeagudo/Backdulake/blob/master/README.md"
-    }
-  ]
+  "license": "(MIT)"
 }
